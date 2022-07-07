@@ -30,15 +30,25 @@ Pandas library
 ---
 
 ## Visualizaitons
-![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/bitstamp_price.jpg)
-![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/coinbase_price.jpg)  
-![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/bit%20vs%20coin.jpg)  
-![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/Month_Early.jpg)  
-![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/month_middle.jpg)  
-![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/month_late.jpg)  
-![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/day_early.jpg)  
-![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/daymiddle.jpg)  
-![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/daylate.jpg)  
+![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/bitstamp_price.jpg)    
+ 
+
+![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/coinbase_price.jpg)    
+
+![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/bit%20vs%20coin.jpg)   
+
+![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/Month_Early.jpg)    
+
+![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/month_middle.jpg)    
+
+![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/month_late.jpg)    
+
+![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/day_early.jpg)    
+
+![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/daymiddle.jpg)    
+
+![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/daylate.jpg)    
+
 
 
 

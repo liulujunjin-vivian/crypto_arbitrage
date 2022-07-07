@@ -2,3 +2,8 @@ git status
 git add Resources crypto_arbitrage.ipynb git_command_history.txt README.md
 git commit -m "initialize the folder"
 git push
+
+git status
+git add crypto_arbitrage.ipynb
+git add README.md
+git commit -m "update data cleanning"

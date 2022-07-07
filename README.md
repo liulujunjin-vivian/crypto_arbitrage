@@ -22,16 +22,31 @@ Pandas library
 
 ---
 ## Assumption or discoveries
+In day chart,Bitstamp bitcoin price was lower than Coinbase bitcoin price in Jan. 2018 and Feb.2018, but in March 2018, they had the almost same bitcoin price.
+In monthly chart, I can see in the month_early and month_middle bitstamp bitcoin price was higher than Coinbase, but in the month_late Bitstamp and Coinbase had the almost same bitcoin price in 2018.
 
 ---
 
 ## Summary tables and calculations
-
+profit_per_trade_early  
+Timestamp
+2018-01-16 02:56:00    162.01
+2018-01-16 02:57:00    135.00
+2018-01-16 02:59:00    176.13
+2018-01-16 03:00:00    134.01
+2018-01-16 03:06:00    241.54
+                        ...  
+2018-01-16 19:23:00    125.09
+2018-01-16 19:26:00    131.78
+2018-01-16 19:38:00    124.01
+2018-01-16 19:48:00    117.63
+2018-01-16 20:07:00    113.69
+Name: Close, Length: 73, dtype: float64
 ---
 
 ## Visualizaitons
 ![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/bitstamp_price.jpg)    
- 
+
 
 ![this is the picture instruction.](https://github.com/liulujunjin-vivian/crypto_arbitrage/blob/main/Pic/coinbase_price.jpg)    
 
